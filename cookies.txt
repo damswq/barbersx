@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lamafiabarbearia.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	c61890c99ecdd2b046e7bd1e33c8c9bc
+www.lamafiabarbearia.com.br	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.lamafiabarbearia.com.br	TRUE	/	FALSE	1999999999	wp_woocommerce_session_ebe4a09170dcfe4555f328635bcae820	cecd9132104096911925e7dd334b936a%7C%7C1645418448%7C%7C1645414848%7C%7C827f385552b051fa48553989638aa104
+www.lamafiabarbearia.com.br	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	6757663e06c47b78c523e1eaf62480f9
+
